@@ -1,0 +1,9 @@
+langgraph
+requests
+pytest
+responses
+pytest-html
+fastapi
+uvicorn
+pydantic
+python-dotenv
